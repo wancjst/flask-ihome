@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/ihome_flask/.idea/ihome_flask.iml" filepath="$USER_HOME$/ihome_flask/.idea/ihome_flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ihome_python04.iml" filepath="$PROJECT_DIR$/.idea/ihome_python04.iml" />
+    </modules>
+  </component>
+</project>
